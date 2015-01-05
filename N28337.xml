@@ -115,21 +115,21 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037765_0000_100F479B8AEF6488"/>
-            <pb facs="tcp:037765_0001_100F26F94BFC4C60"/>
+            <pb facs="unknown:037765_0000_100F479B8AEF6488"/>
+            <pb facs="unknown:037765_0001_100F26F94BFC4C60"/>
             <p>THE WIDOW, AND THE RIDING HORSE. A DRAMATIC TRIFLE, IN ONE ACT.</p>
             <p>TRANSLATED FROM THE GERMAN OF KOTZEBUE</p>
             <p>NEW-Y0RK: PRINTED FOR CHARLES SMITH AND S. STEPHENS. 1800.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:037765_0002_100F2708DECED358"/>
+            <pb facs="unknown:037765_0002_100F2708DECED358"/>
             <head>Advertisement.</head>
             <p>THE following translation is the original, from which Mr, Dibdin, Junior, formed the pleasant interlude of the HORSE AND THE WIDOW, as performed at Covent Garden Theatre.</p>
             <p>The Translator has retained the German title of the WIDOW AND THE RIDING HORSE, though not perhaps a strictly correct English one; but no English term would suf<g ref="char:EOLhyphen"/>ficiently express all that the German is meant to include; since what are classed in Germany, under the general de<g ref="char:EOLhyphen"/>scription of <hi>Riding Horses,</hi> in England would be divided into <hi>Saddle</hi> and <hi>Running Horses.</hi>
             </p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037765_0003_100F46D2EDB2C6B8"/>
+            <pb facs="unknown:037765_0003_100F46D2EDB2C6B8"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>
@@ -151,7 +151,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037765_0004_100F46D50444D988"/>
+            <pb facs="unknown:037765_0004_100F46D50444D988"/>
             <head>THE WIDOW, AND THE RIDING HORSE.</head>
             <div n="1" type="scene">
                <head>SCENE I.</head>
@@ -210,7 +210,7 @@
                   <p>The news I speak of relates to ourselves.</p>
                </sp>
                <sp>
-                  <pb n="6" facs="tcp:037765_0005_100F46D891AFF440"/>
+                  <pb n="6" facs="unknown:037765_0005_100F46D891AFF440"/>
                   <speaker>Ang.</speaker>
                   <p>Are we still considered as among the living?</p>
                </sp>
@@ -308,7 +308,7 @@
                   <p>Let the dead rest in peace. In short, my father irre<g ref="char:EOLhyphen"/>vocably ordained, that in case of my failing in either of these conditions, the whole fortune should revert to my cousin.</p>
                </sp>
                <sp>
-                  <pb n="7" facs="tcp:037765_0006_100F46DA1C9B1EC0"/>
+                  <pb n="7" facs="unknown:037765_0006_100F46DA1C9B1EC0"/>
                   <speaker>Ang.</speaker>
                   <p>I have heard that about a hundred times.</p>
                </sp>
@@ -377,7 +377,7 @@
                   <p>A splendid triumph for my charms.</p>
                </sp>
                <sp>
-                  <pb n="8" facs="tcp:037765_0007_100F46DC6ED06BB8"/>
+                  <pb n="8" facs="unknown:037765_0007_100F46DC6ED06BB8"/>
                   <speaker>Ful.</speaker>
                   <p>I made you an offer of my hand —</p>
                </sp>
@@ -426,7 +426,7 @@
                   <p>I would rather beg, than drag on this dull solitary life any longer.</p>
                </sp>
                <sp>
-                  <pb n="9" facs="tcp:037765_0008_100F46DDFB00B4B0"/>
+                  <pb n="9" facs="unknown:037765_0008_100F46DDFB00B4B0"/>
                   <speaker>Ful.</speaker>
                   <p>I don't pretend to be so well acquainted with the pleasures of begging as yourself, since you know them by experience.</p>
                </sp>
@@ -467,7 +467,7 @@
                <p>Job! Cato! Socrates! and all ye who have been fellow-sufferers with myself from vixen wives, look down upon me with compassion from your immortal mansions, and teach me the difficult task of bearing my own folly with patience!— Happy the man who can ascribe his misfortunes to others!— Woe to him who must impute them solely to himself!</p>
             </div>
             <div n="4" type="scene">
-               <pb n="10" facs="tcp:037765_0009_100F46E193A290C8"/>
+               <pb n="10" facs="unknown:037765_0009_100F46E193A290C8"/>
                <head>SCENE IV.</head>
                <stage>RONSARD <hi>puts his head in at the door.</hi>
                </stage>
@@ -538,7 +538,7 @@
                   </p>
                </sp>
                <sp>
-                  <pb n="11" facs="tcp:037765_0010_100F46E31C05FEF8"/>
+                  <pb n="11" facs="unknown:037765_0010_100F46E31C05FEF8"/>
                   <speaker>Ron.</speaker>
                   <p>Heaven forbid!—Shall I who have the honor of serv<g ref="char:EOLhyphen"/>ing a Count, who will shortly be created Marechal of France, accept an alms?</p>
                </sp>
@@ -605,7 +605,7 @@
                   <p>As is commonly the case with lawyers in this country.</p>
                </sp>
                <sp>
-                  <pb n="12" facs="tcp:037765_0011_100F46E55723C078"/>
+                  <pb n="12" facs="unknown:037765_0011_100F46E55723C078"/>
                   <speaker>Ron.</speaker>
                   <p>My master's politeness being unbounded, he order<g ref="char:EOLhyphen"/>ed me, as his <hi>butler,</hi> to lay a knife and fork for this lawyer. The partridge was served up—it was soon demolished—and, after dinner, a game at piquet was proposed. Here fortune was not favorable to the Count, though indeed his loss was insignificant, the trifling sum of three guineas, for the pay<g ref="char:EOLhyphen"/>ment of which he offered to pledge his word of honor.</p>
                </sp>
@@ -664,7 +664,7 @@
                <sp>
                   <speaker>Ron.</speaker>
                   <p>'Tis a very clever beast I assure you. It was our in<g ref="char:EOLhyphen"/>tention to have taught him by degrees the valuable art of
-<pb n="13" facs="tcp:037765_0012_100F46E70538CEA8"/>
+<pb n="13" facs="unknown:037765_0012_100F46E70538CEA8"/>
 living entirely without food, and he has already made a con<g ref="char:EOLhyphen"/>siderable progress in acquiring it.</p>
                </sp>
                <sp>
@@ -710,7 +710,7 @@ living entirely without food, and he has already made a con<g ref="char:EOLhyphe
                </sp>
             </div>
             <div n="5" type="scene">
-               <pb n="14" facs="tcp:037765_0013_100F46E9F585C070"/>
+               <pb n="14" facs="unknown:037765_0013_100F46E9F585C070"/>
                <head>SCENE V.</head>
                <stage>FULLARTON <hi>alone.</hi>
                </stage>
@@ -779,7 +779,7 @@ living entirely without food, and he has already made a con<g ref="char:EOLhyphe
                <stage>FULLARTON <hi>alone.</hi>
                </stage>
                <p>Bravo, Count!—And so to spare yourself the weight of an obligation, you have burthened your benefactor with an
-<pb n="15" facs="tcp:037765_0014_100F46EC2F9CE378"/>
+<pb n="15" facs="unknown:037765_0014_100F46EC2F9CE378"/>
 useless animal. This reluctance to accept a kindness is a hateful principle in man's nature—often as he is obliged to seek assistance, why should he be ashamed of receiving it? Yet to acknowledge an obligation is to confess weakness, and from such a confession, the pride of our hearts ever revolts.</p>
             </div>
             <div n="8" type="scene">
@@ -863,7 +863,7 @@ useless animal. This reluctance to accept a kindness is a hateful principle in m
                   <p>The same.</p>
                </sp>
                <sp>
-                  <pb n="16" facs="tcp:037765_0015_100F46EEB724DDF8"/>
+                  <pb n="16" facs="unknown:037765_0015_100F46EEB724DDF8"/>
                   <speaker>Ful.</speaker>
                   <p>You joke.</p>
                </sp>
@@ -980,7 +980,7 @@ useless animal. This reluctance to accept a kindness is a hateful principle in m
                   <p>How many?</p>
                </sp>
                <sp>
-                  <pb n="17" facs="tcp:037765_0016_100F46F1C1143308"/>
+                  <pb n="17" facs="unknown:037765_0016_100F46F1C1143308"/>
                   <speaker>War.</speaker>
                   <p>Six.</p>
                </sp>
@@ -1067,7 +1067,7 @@ Cursed fate!</p>
                <sp>
                   <speaker>War.</speaker>
                   <p>The will says nothing of <hi>sitting</hi> upon the horse, it speaks only of <hi>keeping</hi> the horse. The animal is now in your
-<pb n="18" facs="tcp:037765_0017_100F46F3F64013A8"/>
+<pb n="18" facs="unknown:037765_0017_100F46F3F64013A8"/>
 stable, you have paid three guineas for him, consequently he is your horse, consequently you keep a Riding-Horse, con<g ref="char:EOLhyphen"/>sequently you have not complied with the conditions of the will, consequently your property devolves to your cousin.</p>
                </sp>
                <sp>
@@ -1151,7 +1151,7 @@ Your's Count.</p>
                   <p>Who, on the part of my cousin, claims this inhe<g ref="char:EOLhyphen"/>ritance.</p>
                </sp>
                <sp>
-                  <pb n="19" facs="tcp:037765_0018_100F46F58467A3C8"/>
+                  <pb n="19" facs="unknown:037765_0018_100F46F58467A3C8"/>
                   <speaker>Val.</speaker>
                   <p>On what plea <gap reason="illegible: indecipherable" extent="1 span">
                         <desc>〈…〉</desc>
@@ -1253,7 +1253,7 @@ Have you seen the animal?</p>
                <sp>
                   <speaker>Ful.</speaker>
                   <p>Another of my father's whims. He married a widow himself, with whom he lived very unhappily, and I am re<g ref="char:EOLhyphen"/>strained
-<pb n="20" facs="tcp:037765_0019_100F46F7100D0DF8"/>
+<pb n="20" facs="unknown:037765_0019_100F46F7100D0DF8"/>
 from marrying a Widow, under the same forfeiture that attaches to my keeping a Riding-Horse.</p>
                </sp>
                <sp>
@@ -1344,7 +1344,7 @@ from marrying a Widow, under the same forfeiture that attaches to my keeping a R
                   <p>Her husband!</p>
                </sp>
                <sp>
-                  <pb n="21" facs="tcp:037765_0020_100F46F94FDD3BC8"/>
+                  <pb n="21" facs="unknown:037765_0020_100F46F94FDD3BC8"/>
                   <speaker>Ron.</speaker>
                   <p>
                      <stage>[With a sigh.]</stage>
@@ -1456,7 +1456,7 @@ Angelica, your two husbands wish to speak with you.</p>
                   <p>You laugh?</p>
                </sp>
                <sp>
-                  <pb n="22" facs="tcp:037765_0021_100F46FCE73D97E0"/>
+                  <pb n="22" facs="unknown:037765_0021_100F46FCE73D97E0"/>
                   <speaker>Ang.</speaker>
                   <p>Haven't I reason?—Many a poor girl weeps be<g ref="char:EOLhyphen"/>cause she cannot get one husband, why shouldn't I laugh, when Heaven has blessed me with two. Ha! ha! ha! ha! ha!—</p>
                </sp>
@@ -1561,7 +1561,7 @@ And I heard that you had been hanged as a spy.</p>
                   <p>I should bear the loss like a philosopher.</p>
                </sp>
                <sp>
-                  <pb n="23" facs="tcp:037765_0022_100F46FE717F5F18"/>
+                  <pb n="23" facs="unknown:037765_0022_100F46FE717F5F18"/>
                   <speaker>Val.</speaker>
                   <p>I could not endure the thoughts of interrupting the repose of a whole family.</p>
                </sp>
@@ -1639,7 +1639,7 @@ Then I am to return to you?</p>
                   <p>Nearly so—since neither is good for much.</p>
                </sp>
                <sp>
-                  <pb n="24" facs="tcp:037765_0023_100F4700AB2E94A8"/>
+                  <pb n="24" facs="unknown:037765_0023_100F4700AB2E94A8"/>
                   <speaker>Val.</speaker>
                   <p>Then—if I must speak plainly and explicitly—I do hereby declare, that I had rather submit my neck to the guillotine, than bend it a second time beneath the yoke from which it has once escaped.</p>
                </sp>
@@ -1709,7 +1709,7 @@ Then I am to return to you?</p>
                   <p>But that speaks only of two husbands—now, if a woman should marry three? —</p>
                </sp>
                <sp>
-                  <pb n="25" facs="tcp:037765_0024_100F4702589A1498"/>
+                  <pb n="25" facs="unknown:037765_0024_100F4702589A1498"/>
                   <speaker>War.</speaker>
                   <p>She would certainly be saved.</p>
                </sp>
@@ -1802,7 +1802,7 @@ If you are satisfied?</p>
                   <p>Thank God!</p>
                </sp>
                <sp>
-                  <pb n="26" facs="tcp:037765_0025_100F4704D15437E0"/>
+                  <pb n="26" facs="unknown:037765_0025_100F4704D15437E0"/>
                   <speaker>War.</speaker>
                   <p>Provided that in the first place all be drawn up in due form.</p>
                </sp>
